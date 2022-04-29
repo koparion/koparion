@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=koparion&theme=vue-dark&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koparion&theme=vue-dark&show_icons=true" />
 
 <!--
 **koparion/koparion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
