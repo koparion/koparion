@@ -1,5 +1,9 @@
 <!-- ### Hi there 👋 -->
 
+### Hi, I'm Rus and computer science graduate.
+Here you will find my current and past projects.
+
+<!-- 
 <a href="https://github.com/koparion/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=koparion&theme=vue-dark&show_icons=true" />
 </a>
@@ -9,7 +13,7 @@
 <a href="https://github.com/koparion/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koparion&repo=Backend-Capstone-Raters" />
 </a>
-
+-->
 
 <!--
 **koparion/koparion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
