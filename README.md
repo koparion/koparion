@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to My GitHub Profile 👋
-
+![Firefly 20240217213718 -smaller](https://github.com/koparion/koparion/assets/81392804/b43bc73c-325e-4123-9b31-fe4d3dd04125)
 ## About Me
 
 Hi there! I'm Rus, a passionate software developer with a love for creating innovative solutions. I'm a computer science graduate with honors and specialize in web development, with expertise in front-end and back-end technologies. My goal is to leverage technology to solve real-world problems and make a positive impact on the world.
